@@ -1,6 +1,10 @@
 Projeto de teste de consulta à api com react
 
-No diretório do projeto, você pode executar:
+No diretório do projeto, você pode executar para instalar as dependências (default do react):
+
+### `npm i`
+
+Em seguida:
 
 ### `npm start`
 
